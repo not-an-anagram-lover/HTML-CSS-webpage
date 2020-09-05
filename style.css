@@ -1,0 +1,9 @@
+#div-one{
+    background-color: black;
+    color: aquamarine;
+    padding: 100px 100px 100px 0px;
+    border-style: dashed;
+    border-width: 50px;
+    border-color: red;
+    margin:50px;
+}
